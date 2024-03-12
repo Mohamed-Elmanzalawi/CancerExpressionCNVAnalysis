@@ -15,7 +15,7 @@ Lung and kidney cancers are the leading causes of cancer-related deaths worldwid
 - **Data:** Raw unprocessed data files, including gene expression data, and CNV data.
 
 - **Report:** Comprehensive report detailing project background, objectives, methodology, results, and discussions.
-- 
+  
 ## 1. Introduction
 
 ### Lung Cancer: A Global Challenge
