@@ -30,6 +30,8 @@ Our primary source of genetic data stems from The Cancer Genome Atlas (TCGA) dat
 ## 2. Data Filtering
 The filtration process involved eliminating genes with more than 50% zero values in both cancer and healthy groups for each cancer type (KIRC and LUSC). This not only streamlined subsequent analyses but also ensured the statistical robustness of our findings. The table below summarizes the gene and sample count changes resulting from this filtration process.
 
+![](/Pictures/Covid%20Variants.jpeg)
+
 ## 3. Methods
 
 ### 3.1. Hypothesis Testing
