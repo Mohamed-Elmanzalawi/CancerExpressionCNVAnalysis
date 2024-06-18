@@ -58,7 +58,7 @@ To reproduce the analysis:
    git clone https://github.com/your-username/lung-kidney-cancer-analysis.git
 2. Open RStudio or any R environment.
 3. Execute the R scripts in the Code directory in the provided order to perform data analysis But be sure to change the file paths according to your data location.
-4. Refer to the report in the Report directory for detailed results and discussions.
+4. Refer to the report in the Report folder for detailed results and discussions.
 
 ## Contributors
 
