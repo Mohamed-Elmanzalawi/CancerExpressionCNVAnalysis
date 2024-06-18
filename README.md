@@ -24,29 +24,29 @@ Lung cancer, the leading cause of cancer-related death worldwide, poses a signif
 ### Kidney Cancer: An Enigmatic Foe
 Kidney Renal Clear Cell Carcinoma (KIRC), the eighth most common cancer, presents unique challenges due to its resistance to conventional treatments. Our study explores the genomic alterations and molecular mechanisms associated with KIRC.
 
-## 1. Data Collection
+## 2. Data Collection
 Our primary source of genetic data stems from The Cancer Genome Atlas (TCGA) data portal, a comprehensive repository that provides a wealth of information on various cancer types. Specifically, we focused on Lung Squamous Cell Carcinoma (LUSC) and Kidney Renal Clear Cell Carcinoma (KIRC), acknowledging their prominence in cancer-related mortality.
 
-## 2. Data Filtering
+## 3. Data Filtering
 The filtration process involved eliminating genes with more than 50% zero values in both cancer and healthy groups for each cancer type (KIRC and LUSC). This not only streamlined subsequent analyses but also ensured the statistical robustness of our findings. The table below summarizes the gene and sample count changes resulting from this filtration process.
 
 ![](/Pictures/genes&samples_num.png)
 
-## 3. Methods
+## 4. Methods
 
-### 3.1. Hypothesis Testing
+### 4.1. Hypothesis Testing
 We employ hypothesis testing, fold change, and volcano plots to identify DEGs in both cancer types. Data filtration ensures robust results, and statistical methods guide our analysis.
 
-### 3.2. GSEA
+### 4.2. GSEA
 Gene Set Enrichment Analysis (GSEA) adds depth to our study, unraveling the intricate pathways associated with DEGs. The results provide valuable insights into the molecular signatures of lung and kidney cancers.
 
-### 3.3. Regression
+### 4.3. Regression
 Regression analysis establishes connections between gene expressions and CNVs. We utilize the glmnet package for efficient analysis, contributing to a comprehensive understanding of genetic interactions.
 
-### 3.4. Enrichment Analysis
+### 4.4. Enrichment Analysis
 We employ DAVID network analysis to explore enriched Gene Ontology terms, OMIM diseases, and KEGG pathways, enhancing our understanding of the functional significance of DEGs.
 
-## 4. Literature Review
+## 5. Literature Review
 
 A review of existing literature validates our findings. Genes such as FBXO45, FGF11, and SERPINH1 emerge as potential biomarkers in lung and kidney cancers, aligning with previous research.
 
