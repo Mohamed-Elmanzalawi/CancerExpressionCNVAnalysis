@@ -68,7 +68,7 @@ To reproduce the analysis:
 - Rania Alanany
 
 ## Acknowledgments
-We express our sincere gratitude to Prof.Ibrahim Mohamed Youssef [Linkedin](https://https://www.linkedin.com/in/ibrahim-youssef-65262a145/) for his invaluable supervision and guidance throughout the project.
+We express our sincere gratitude to Prof.Ibrahim Mohamed Youssef [Linkedin](https://www.linkedin.com/in/ibrahim-youssef-65262a145/) for his invaluable supervision and guidance throughout the project.
 
 ## Keywords
 Lung Cancer, Kidney Cancer, Gene Expression, GSEA, CNV, Computational Analysis.
