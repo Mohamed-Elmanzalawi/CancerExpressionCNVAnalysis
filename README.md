@@ -62,13 +62,13 @@ To reproduce the analysis:
 
 ## Contributors
 
-- Mohamed Elmanzalawi [Linkedin](https://www.linkedin.com/in/mohamed-elmanzalawi/)
-- Ahmed Nabil Elghamry [Linkedin](https://www.linkedin.com/in/ahmed-elghamry-7b22829a/)
+- Mohamed Elmanzalawi [[Linkedin](https://www.linkedin.com/in/mohamed-elmanzalawi/)]
+- Ahmed Nabil Elghamry [[Linkedin](https://www.linkedin.com/in/ahmed-elghamry-7b22829a/)]
 - Amany Awad
 - Rania Alanany
 
 ## Acknowledgments
-We express our sincere gratitude to Prof.Ibrahim Mohamed Youssef [Linkedin](https://www.linkedin.com/in/ibrahim-youssef-65262a145/) for his invaluable supervision and guidance throughout the project.
+We express our sincere gratitude to Prof.Ibrahim Mohamed Youssef [[Linkedin](https://www.linkedin.com/in/ibrahim-youssef-65262a145/)] for his invaluable supervision and guidance throughout the project.
 
 ## Keywords
 Lung Cancer, Kidney Cancer, Gene Expression, GSEA, CNV, Computational Analysis.
